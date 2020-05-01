@@ -1,0 +1,12 @@
+<!doctype html>
+<html>
+   <head>
+   <title>audio</title>
+   </head>
+   <body>
+   <audio controls autoplay>
+   <source src="my.mp3">
+   </audio>
+ 
+   </body>
+  
